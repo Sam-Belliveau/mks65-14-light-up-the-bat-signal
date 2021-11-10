@@ -1,0 +1,13 @@
+*
+
+!*.*
+!*/
+
+!makefile
+
+obj/
+bin/
+.data/
+
+a.out
+signal.log
